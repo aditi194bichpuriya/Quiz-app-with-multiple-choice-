@@ -82,8 +82,7 @@ This project is licensed under the MIT License.
 📧 Contact
 
 Feel free to reach out if you have any questions or feedback!
-	•	Author: Abdullah Nazmus-Sakib
-	•	GitHub: AbdullahRFA
-	•	LinkedIn: Your LinkedIn Profile (https://www.linkedin.com/in/abdullah-nazmus-sakib-04024b261/)
+	•	Author: Aditi Bichpuriya 
+	•	LinkedIn: Your LinkedIn Profile https://www.linkedin.com/in/aditi-bichpuriya-9570582a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 Happy coding! 😊
